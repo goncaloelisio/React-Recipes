@@ -1,3 +1,15 @@
+# Getting Started
+
+json-server --watch ./data/db.json
+
+npm install
+
+# It covers
+
+- useRef
+- POST method
+- reusing hooks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
